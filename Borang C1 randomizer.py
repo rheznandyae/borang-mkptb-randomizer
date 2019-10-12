@@ -1,6 +1,6 @@
 '''
 Made by Mustafa Zaki Assagaf
-This program will randomize borang C1 score for MKPK-B UI Class
+This program will randomize borang C1 score for MPKT-B UI Class
 inspired by Francis Wibosono
 '''
 from xlrd import open_workbook
